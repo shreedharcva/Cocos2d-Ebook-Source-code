@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animations</key>
+	<dict>
+		<key>Animation</key>
+		<dict>
+			<key>delay</key>
+			<string>0.05</string>
+			<key>frames</key>
+			<array>
+				<string>0.png</string>
+				<string>1.png</string>
+				<string>2.png</string>
+				<string>3.png</string>
+				<string>4.png</string>
+				<string>5.png</string>
+			</array>
+		</dict>
+	</dict>
+	<key>textureFileName</key>
+	<string>tinyrunpack.plist</string>
+</dict>
+</plist>

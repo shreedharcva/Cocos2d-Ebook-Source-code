@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GoogleAdMobAdsSdk">
+    <CLASSES>
+      <root url="jar://C:/adt-bundle-windows-x86/sdk/extras/google/admob_ads_sdk/GoogleAdMobAdsSdk-6.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
