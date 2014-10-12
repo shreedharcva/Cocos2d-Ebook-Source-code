@@ -16,4 +16,4 @@ Its free yes its completely free, no need to subscribe,signup,like or tweet.
  
  Thanks and Regards,
  Shreedhar
- [url]www.codejacks.com[/URL]
+ www.codejacks.com
